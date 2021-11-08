@@ -13,7 +13,7 @@ class Symbols(Cyphers):
         self.deciphered_text = ""
 
     def ReadStrArray(self, strArray, i):
-        # должно быт как минимум три непрочитанных значения в массиве
+        # должно быть как минимум три непрочитанных значения в массиве
         if i >= len(strArray) - 2:
             return 0
         self.ciphered_text = strArray[i]
@@ -29,7 +29,6 @@ class Symbols(Cyphers):
                 if self.ciphered_text[x] == self.cypher[0][j]:
                     res = self.cypher[1][j]
             self.deciphered_text += res
-        # print("Rectangle: x = ", self.x, " y = ", self.y)
         return i
 
     def RandomGenerate(self):
