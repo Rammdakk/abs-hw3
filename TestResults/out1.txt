@@ -1,0 +1,7 @@
+Container is store 6 elements:
+0: It Symbols cipher: ciphered_text = wer, deciphered_text = dfg, function_result = 101.66666666666667
+1: It Cyclic cipher: ciphered_text = test, deciphered_text = yjxy, Division = 117.0
+2: It Symbols cipher: ciphered_text = abc, deciphered_text = bcd, function_result = 99.0
+3: It Symbols cipher: ciphered_text = test, deciphered_text = rwer, function_result = 112.0
+4: It Number cipher: ciphered_text =  123, deciphered_text = abc, function_result = 98.0
+5: It Cyclic cipher: ciphered_text = abc, deciphered_text = cde, Division = 100.0
