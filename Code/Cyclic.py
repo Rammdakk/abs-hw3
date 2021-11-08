@@ -12,7 +12,7 @@ class Cyclic(Cyphers):
         self.deciphered_text = ""
 
     def ReadStrArray(self, strArray, i):
-        # должно быт как минимум три непрочитанных значения в массиве
+        # должно быть как минимум три непрочитанных значения в массиве
         if i >= len(strArray) - 1:
             return 0
         self.ciphered_text = strArray[i]
@@ -20,7 +20,6 @@ class Cyclic(Cyphers):
         for x in self.ciphered_text:
             self.deciphered_text += chr(ord(x) + self.cypher)
         i += 2
-        # print("Rectangle: x = ", self.x, " y = ", self.y)
         return i
 
     def RandomGenerate(self):
