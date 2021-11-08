@@ -19,7 +19,7 @@ class Number(Cyphers):
         return str1
 
     def ReadStrArray(self, strArray, i):
-        # должно быт как минимум три непрочитанных значения в массиве
+        # должно быть как минимум три непрочитанных значения в массиве
         if i >= len(strArray) - 2:
             return 0
         self.length = int(strArray[i])
@@ -39,8 +39,6 @@ class Number(Cyphers):
             for j in range(self.length):
                 if x == self.cypher[1][j]:
                     self.deciphered_text += chr(self.cypher[0][j])
-
-        # print("Rectangle: x = ", self.x, " y = ", self.y)
         return i
 
     def RandomGenerate(self):
