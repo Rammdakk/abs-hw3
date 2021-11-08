@@ -9,23 +9,23 @@ def ReadStrArray(container, strArray):
         str = strArray[i]
         key = int(str)  # преобразование в целое
         # print("key = ", key)
-        if key == 1:  # признак прямоугольника
+        if key == 1:  # признак посимвольного шифра
             i += 1
             shape = Symbols()
-            i = shape.ReadStrArray(strArray, i)  # чтение прямоугольника с возвратом позиции за ним
-        elif key == 2:  # признак треугольника
+            i = shape.ReadStrArray(strArray, i)  # чтение шифра с возвратом позиции за ним
+        elif key == 2:  # признак циклического шифра
             i += 1
             shape = Cyclic()
-            i = shape.ReadStrArray(strArray, i)  # чтение треугольника с возвратом позиции за ним
-        elif key == 3:  # признак треугольника
+            i = shape.ReadStrArray(strArray, i)  # чтение шифра с возвратом позиции за ним
+        elif key == 3:  # признак числового шифра
             i += 1
             shape = Number()
-            i = shape.ReadStrArray(strArray, i)  # чтение треугольника с возвратом позиции за ним
+            i = shape.ReadStrArray(strArray, i)  # чтение шифра с возвратом позиции за ним
         else:
             # что-то пошло не так. Должен быть известный признак
-            # Возврат количества прочитанных фигур
+            # Возврат количества прочитанных шифров
             return figNum
-        # Количество пробелами фигур увеличивается на 1
+        # Количество шифров увеличивается на 1
         if i == 0:
             return figNum
         figNum += 1
