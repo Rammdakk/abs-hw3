@@ -9,18 +9,18 @@ def GenerateArray(container, len):
     while figNum < arrayLen:
         key = randint(1, 3)
         # print("key = ", key)
-        if key == 1:  # признак прямоугольника
+        if key == 1:  # признак символьного шифра
             shape = Symbols()
-            shape.RandomGenerate()  # чтение прямоугольника с возвратом позиции за ним
-        elif key == 2:  # признак треугольника
+            shape.RandomGenerate()  # чтение шифра с возвратом позиции за ним
+        elif key == 2:  # признак циклического шифра
             shape = Cyclic()
-            i = shape.RandomGenerate()  # чтение треугольника с возвратом позиции за ним
-        elif key == 3:  # признак треугольника
+            i = shape.RandomGenerate()  # чтение шифра с возвратом позиции за ним
+        elif key == 3:  # признак цифрового шифра
             shape = Number()
-            shape.RandomGenerate()  # чтение треугольника с возвратом позиции за ним
+            shape.RandomGenerate()  # чтение шифра с возвратом позиции за ним
         else:
             # что-то пошло не так. Должен быть известный признак
-            # Возврат количества прочитанных фигур
+            # Возврат количества прочитанных шифров
             return figNum
         container.store.append(shape)
         figNum += 1
