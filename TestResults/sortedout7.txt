@@ -1,0 +1,16 @@
+Container is store 15 elements:
+0: It Symbols cipher: ciphered_text = fvw, deciphered_text = dkd, function_result = 102.33333333333333
+1: It Symbols cipher: ciphered_text = hsjqert, deciphered_text = yboldjh, function_result = 106.85714285714286
+2: It Symbols cipher: ciphered_text = fhplmegy, deciphered_text = hffblrzq, function_result = 107.875
+3: It Number cipher: ciphered_text =  211030, deciphered_text = lax, function_result = 108.33333333333333
+4: It Symbols cipher: ciphered_text = gbqeo, deciphered_text = vdjtn, function_result = 110.0
+5: It Cyclic cipher: ciphered_text = qbeug, deciphered_text = ufiyk, Division = 110.4
+6: It Symbols cipher: ciphered_text = tmawbdx, deciphered_text = ejawyss, function_result = 110.57142857142857
+7: It Number cipher: ciphered_text =  543620404218811630, deciphered_text = ltsdesxmp, function_result = 110.66666666666667
+8: It Cyclic cipher: ciphered_text = rdj, deciphered_text = wio, Division = 111.66666666666667
+9: It Cyclic cipher: ciphered_text = ckshdqmoq, deciphered_text = gowlhuqsu, Division = 111.88888888888889
+10: It Cyclic cipher: ciphered_text = bdhmr, deciphered_text = kmqv{, Division = 114.0
+11: It Cyclic cipher: ciphered_text = hqlfou, deciphered_text = oxsmv|, Division = 116.16666666666667
+12: It Cyclic cipher: ciphered_text = dohqkwns, deciphered_text = kvoxr~uz, Division = 116.875
+13: It Cyclic cipher: ciphered_text = ohtrnmyra, deciphered_text = vo{yutyh, Division = 117.66666666666667
+14: It Cyclic cipher: ciphered_text = ptrhlywn, deciphered_text = vzxnr}t, Division = 119.0

@@ -1,0 +1,13 @@
+Container is store 12 elements:
+0: It Cyclic cipher: ciphered_text = dap, deciphered_text = het, Division = 68.8
+1: It Cyclic cipher: ciphered_text = vqf, deciphered_text = zuj, Division = 73.6
+2: It Symbols cipher: ciphered_text = uqabltv, deciphered_text = darmlgd, function_result = 104.42857142857143
+3: It Number cipher: ciphered_text =  627293515, deciphered_text = wbkmn, function_result = 108.6
+4: It Number cipher: ciphered_text =  456340358120, deciphered_text = puwdsg, function_result = 111.0
+5: It Cyclic cipher: ciphered_text = qfsfwceke, deciphered_text = vkxk|hjpj, Division = 111.55555555555556
+6: It Symbols cipher: ciphered_text = xyibc, deciphered_text = gyvoi, function_result = 111.6
+7: It Number cipher: ciphered_text =  100102420451872, deciphered_text = agvyxkt, function_result = 111.71428571428571
+8: It Number cipher: ciphered_text =  63721654, deciphered_text = qwfv, function_result = 113.0
+9: It Cyclic cipher: ciphered_text = stneqrwo, deciphered_text = tuofrsxp, Division = 113.375
+10: It Cyclic cipher: ciphered_text = yjoyyhubi, deciphered_text = |mr||kxel, Division = 114.55555555555556
+11: It Cyclic cipher: ciphered_text = zgwfhljra, deciphered_text = poqus{j, Division = 117.33333333333333

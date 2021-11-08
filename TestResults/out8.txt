@@ -1,0 +1,11 @@
+Container is store 10 elements:
+0: It Symbols cipher: ciphered_text = pmrfzz, deciphered_text = rucgzz, function_result = 112.83333333333333
+1: It Cyclic cipher: ciphered_text = xtlpb, deciphered_text = }uyk, Division = 119.8
+2: It Cyclic cipher: ciphered_text = bylqjogvc, deciphered_text = lv{tyqm, Division = 118.55555555555556
+3: It Symbols cipher: ciphered_text = cwurfx, deciphered_text = wxlizp, function_result = 114.33333333333333
+4: It Number cipher: ciphered_text =  8024549, deciphered_text = adhzs, function_result = 107.6
+5: It Number cipher: ciphered_text =  9301354224607, deciphered_text = olenyqdm, function_result = 109.125
+6: It Symbols cipher: ciphered_text = qgfds, deciphered_text = abcde, function_result = 99.0
+7: It Cyclic cipher: ciphered_text = abracadabra, deciphered_text = jk{jljmjk{j, Division = 109.72727272727273
+8: It Symbols cipher: ciphered_text = king, deciphered_text = back, function_result = 100.25
+9: It Symbols cipher: ciphered_text = result, deciphered_text = isOkey, function_result = 104.66666666666667
